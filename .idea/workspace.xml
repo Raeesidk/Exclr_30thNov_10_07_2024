@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="832c8f1d-0368-46cc-aeb6-847c927d9cb8" name="Changes" comment="3rd commit checking purpose" />
+    <list default="true" id="832c8f1d-0368-46cc-aeb6-847c927d9cb8" name="Changes" comment="1st Commit of selenium">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Element_Locators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LaunchBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LaunchBrowser.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +24,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;chutiyasalaidkwhy&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/chutiyasalaidkwhy/Exclr_30thNov_10_07_2024.git&quot;,
-    &quot;accountId&quot;: &quot;886875cc-858f-461b-a591-84be4c6c2638&quot;
-  }
-}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -44,36 +36,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Element_Locators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LaunchBrowser.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Mohammed Rahil/IdeaProjects/Exclr_30thNov_10_07_2024&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Element_Locators.executor": "Run",
+    "Application.LaunchBrowser.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Selenium_4.22_zip&jar_Eclipse/selenium-java-4.22.0 (1)/selenium-support-4.22.0.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager" selected="Application.FacebookRegistration">
+}]]></component>
+  <component name="RunManager" selected="Application.Element_Locators">
     <configuration name="Element_Locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Element_Locators" />
-      <module name="Exclr_30thNov_10_07_2024" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FacebookRegistration" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.FacebookRegistration" />
       <module name="Exclr_30thNov_10_07_2024" />
       <extension name="coverage">
         <pattern>
@@ -100,7 +79,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FacebookRegistration" />
         <item itemvalue="Application.Element_Locators" />
         <item itemvalue="Application.LaunchBrowser" />
       </list>
@@ -123,23 +101,7 @@
       <option name="project" value="LOCAL" />
       <updated>1720635411893</updated>
     </task>
-    <task id="LOCAL-00002" summary="2nd Commit of selenium add new file">
-      <option name="closed" value="true" />
-      <created>1720721951195</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1720721951195</updated>
-    </task>
-    <task id="LOCAL-00003" summary="3rd commit checking purpose">
-      <option name="closed" value="true" />
-      <created>1720779393408</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1720779393408</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,10 +116,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2nd Commit of selenium" />
     <MESSAGE value="1st Commit of selenium" />
-    <MESSAGE value="2nd Commit of selenium add new file" />
-    <MESSAGE value="3rd commit checking purpose" />
-    <option name="LAST_COMMIT_MESSAGE" value="3rd commit checking purpose" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st Commit of selenium" />
   </component>
 </project>
