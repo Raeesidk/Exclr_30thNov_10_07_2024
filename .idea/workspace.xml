@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="832c8f1d-0368-46cc-aeb6-847c927d9cb8" name="Changes" comment="4th commit added new files" />
+    <list default="true" id="832c8f1d-0368-46cc-aeb6-847c927d9cb8" name="Changes" comment="4th commit added new files">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Validation_Commands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="d03af443-3676-4097-834b-b8543c2adfa4" name="Reapply &quot;4th commit added new files&quot;" comment="Reapply &quot;4th commit added new files&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "chutiyasalaidkwhy"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/chutiyasalaidkwhy/Exclr_30thNov_10_07_2024.git",
+    "accountId": "886875cc-858f-461b-a591-84be4c6c2638"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -43,7 +59,8 @@
     "last_opened_file_path": "D:/Selenium_4.22_zip&jar_Eclipse/selenium-java-4.22.0 (1)/selenium-support-4.22.0.jar",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.sourceCode.Java"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Element_Locators">
@@ -84,6 +101,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="832c8f1d-0368-46cc-aeb6-847c927d9cb8" name="Changes" comment="" />
+      <changelist id="d03af443-3676-4097-834b-b8543c2adfa4" name="Reapply &quot;4th commit added new files&quot;" comment="" />
       <created>1720634756611</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -97,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720635411893</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="4th commit added new files">
+      <option name="closed" value="true" />
+      <created>1720969060374</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1720969060374</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +139,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1st Commit of selenium" />
-    <option name="LAST_COMMIT_MESSAGE" value="1st Commit of selenium" />
+    <MESSAGE value="Revert &quot;4th commit added new files&quot;&#10;&#10;This reverts commit 2671ff93" />
+    <MESSAGE value="Revert &quot;Revert &quot;4th commit added new files&quot;&quot;&#10;&#10;This reverts commit 0f7f5ab1" />
+    <MESSAGE value="Reapply &quot;4th commit added new files&quot;" />
+    <MESSAGE value="4th commit added new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="4th commit added new files" />
   </component>
 </project>
