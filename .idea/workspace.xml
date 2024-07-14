@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="832c8f1d-0368-46cc-aeb6-847c927d9cb8" name="Changes" comment="1st Commit of selenium">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Element_Locators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LaunchBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LaunchBrowser.java" afterDir="false" />
-    </list>
+    <list default="true" id="832c8f1d-0368-46cc-aeb6-847c927d9cb8" name="Changes" comment="4th commit added new files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +38,7 @@
     "Application.LaunchBrowser.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Selenium_4.22_zip&jar_Eclipse/selenium-java-4.22.0 (1)/selenium-support-4.22.0.jar",
     "project.structure.last.edited": "Modules",
